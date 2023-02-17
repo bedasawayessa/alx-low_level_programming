@@ -1,9 +1,13 @@
 #include <stdio.h>
+
 /**
- *main - Entry point
+ * main - Entry point
+ * 
+ * Decription: size of datatype
  *
- *Return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int a;
