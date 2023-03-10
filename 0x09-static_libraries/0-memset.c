@@ -1,5 +1,3 @@
-vi 0-memset.c
-		
 #include "main.h"
 /**
  * _memset - fill a block of memory with a specific value
@@ -20,4 +18,3 @@ char *_memset(char *s, char b, unsigned int n)
 	}
 	return (s);
 }
-
